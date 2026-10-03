@@ -1,0 +1,6 @@
+kaggle.json
+*.csv
+*.h5
+*.keras
+data/
+__pycache__/
